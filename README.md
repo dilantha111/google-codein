@@ -69,7 +69,7 @@ Neutralinojs is currently working on Linux and Windows. We are planning to imple
 
 
 - Skill Level: Advanced
-- Task Type: Testing, Code, Documentation, User Interface
+- Task Type: Documentation, Research
 - Tags: Designing, HTML, Javascript, CSS, Angularjs
 
 ## GCI-09: Develop a sample app using filesystem module
