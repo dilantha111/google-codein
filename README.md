@@ -25,4 +25,13 @@ Neutralinojs is successfully tested on Windows 10 and Windows Server 2016. It ne
 - Task Type: Testing, Code, Documentation
 - Tags: System Testing, Documentation, Virtual Machine, Windows OS
 
+## GCI-04: Write NeutralinoJs Cloud App Documentation
+
+NeutralinoJs apps are capable of running on Desktop or in the cloud, while a sample for creating a desktop based Neutralino app is already available. You can view the desktop app docs at https://neutralinojs.github.io/docs/#/gettingstarted/firstapp .
+A sample to create cloud based Neutralino apps is required to be published, you can get your hands on and do this for us.
+
+- Skill Level: Intermediary
+- Task Type: Code, Testing, Documentation
+- Tags: Markdown, HTML, CSS, Javascript, Writing Skills
+
 
