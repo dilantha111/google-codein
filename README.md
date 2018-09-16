@@ -97,3 +97,19 @@ Neutralino.exe has no publisher details or a valid certifcate with latest releas
 - Task Type: Research, Code, Testing
 - Tags: Designing, Windows, Executables, Automation
 
+## GCI-12: Create dockerfile for neutralino cloud
+
+NeutralinoJs has the capability to run on dockerised environment, yet there is no proper docker setup. A dockerfile need to be created to properly build and deploy the codebase. 
+
+- Skill Level: Intermediate
+- Task Type: Research, Code, Testing
+- Tags: Designing, Cloud, Executables, Automation, Docker
+
+## GCI-13: Refactor and optimize src/core file structure
+
+ NeutralinoJs src/core file structure needs to be refactored to improve performance
+
+- Skill Level: Advanced
+- Task Type: Research, Code, Testing, Enhancement
+- Tags: Designing, Optimizing
+
