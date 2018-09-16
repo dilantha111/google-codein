@@ -34,4 +34,29 @@ A sample to create cloud based Neutralino apps is required to be published, you 
 - Task Type: Code, Testing, Documentation
 - Tags: Markdown, HTML, CSS, Javascript, Writing Skills
 
+## GCI-05: Create a VueJS Template
+
+Neutralinojs library can used in SPA (Single Page Application) development. Starter template for Vuejs + Neutralinojs needs to be created. Template should display same content of Neutralino default app template, such as working port, Os and helpful external links. Thus there will b README file showing the steps for Vuejs template users.
+
+- Skill Level: Beginner
+- Task Type: Testing, Code, Documentation, User Interface
+- Tags: Designing, HTML, Javascript, CSS, Vue
+
+## GCI-06: Create a Reactjs Template
+
+Neutralinojs library can used in SPA (Single Page Application) development. Starter template for Reactjs + Neutralinojs needs to be created. Template should display same content of Neutralino default app template, such as working port, Os and helpful external links. Thus there will b README file showing the steps for Reactjs template users.
+
+- Skill Level: Beginner
+- Task Type: Testing, Code, Documentation, User Interface
+- Tags: Designing, HTML, JSX, CSS, React
+
+## GCI-07: Create a Angularjs Template
+
+Neutralinojs library can used in SPA (Single Page Application) development. Starter template for Angularjs + Neutralinojs needs to be created. Template should display same content of Neutralino default app template, such as working port, Os and helpful external links. Thus there will b README file showing the steps for Angularjs template users. We recommend to add few routes showing demo SPA functionality.
+
+- Skill Level: Beginner
+- Task Type: Testing, Code, Documentation, User Interface
+- Tags: Designing, HTML, Javascript, CSS, Angularjs
+
+
 
