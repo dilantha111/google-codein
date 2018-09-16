@@ -72,5 +72,19 @@ Neutralinojs is currently working on Linux and Windows. We are planning to imple
 - Task Type: Testing, Code, Documentation, User Interface
 - Tags: Designing, HTML, Javascript, CSS, Angularjs
 
+## GCI-09: Develop a sample app using filesystem module
 
+Neutralinojs offers a clientside module for exposing filesystem controls. A sample Neutralino desktop app needs to be develop by demostrating use of file system module. This should cover many methods of filesystem module. It is better to use good styling techniques (but not heavy). README file is required about demo app.
+
+- Skill Level: Intermediate
+- Task Type: Testing, Code, Documentation, User Interface
+- Tags: Designing, HTML, Javascript, CSS
+
+## GCI-10: Develop a sample app using storage module
+
+Neutralinojs has a file based JSON object storage. It can be used as a persistant storage solution for Neutralinojs apps. A simple sample app needs to be developed covering the basic usage of storage module. It is better to use good styling techniques (but not heavy). README file is required about demo app.
+
+- Skill Level: Beginner
+- Task Type: Testing, Code, Documentation, User Interface
+- Tags: Designing, HTML, Javascript, CSS
 
