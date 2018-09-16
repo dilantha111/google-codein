@@ -89,7 +89,7 @@ Neutralinojs has a file based JSON object storage. It can be used as a persistan
 - Tags: Designing, HTML, Javascript, CSS
 
 
-## GCI-11: Add Publisher Details 
+## GCI-11: Add Publisher Details to executable
 
 Neutralino.exe has no publisher details or a valid certifcate with latest release. Therefore Windows popup some warnings first time. A quick research and fix needs to be done to add publisher details to overcome security issues in Windows. It is better to automate the process of adding certificate or publisher and executable icon etc.
 
