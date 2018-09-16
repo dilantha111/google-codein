@@ -10,7 +10,7 @@ The current Neutralino SDK app page has very simple interface. It simply display
 
 ## GCI-02: Testing NeutralinoJs on Linux
 
-Neutralinojs has been successfully tested on several versions of Ubuntu. It needs to be tested further on other Linux distros either by creating virtual machines using a software like Virtualbox or if the user has installed a particular Linux Distro on their system.. A table needs to be documented showing supported and unsupported OS versions.
+Neutralinojs has been successfully tested on several versions of Ubuntu. It needs to be tested further on other Linux distros either by creating virtual machines, using a software like Virtualbox. The user can also use his pre-installed Linux Distro for this purpose. <br/> A table needs to be documented showing supported and unsupported OS versions.
 
 - Skill Level: Beginner
 - Task Type: Code, Documentation, Testing
@@ -19,7 +19,7 @@ Neutralinojs has been successfully tested on several versions of Ubuntu. It need
 
 ## GCI-03: Testing on Windows
 
-Neutralinojs is successfully tested on Windows 10 and Windows Server 2016. It needs to be tested further on other Windows editions by creating virtual machines that is using a software like Virtualbox or Qemu. A table needs to be documented showing supported and unsupported OS versions
+Neutralinojs is successfully tested on Windows 10 and Windows Server 2016. It needs to be tested further on other Windows editions by creating virtual machines, using a software like Virtualbox or Qemu. <br/> A table needs to be documented showing supported and unsupported OS versions
 
 - Skill Level: Beginner
 - Task Type: Testing, Code, Documentation
@@ -27,8 +27,8 @@ Neutralinojs is successfully tested on Windows 10 and Windows Server 2016. It ne
 
 ## GCI-04: Write NeutralinoJs Cloud App Documentation
 
-NeutralinoJs apps are capable of running on Desktop or in the cloud, while a sample for creating a desktop based Neutralino app is already available. You can view the desktop app docs at https://neutralinojs.github.io/docs/#/gettingstarted/firstapp .
-A sample to create cloud based Neutralino apps is required to be published, you can get your hands on and do this for us.
+NeutralinoJs apps are capable of running on Desktop or in the cloud, while a sample for creating a desktop based Neutralino app is already available. A sample to create cloud based Neutralino apps is required to be published, you can get your hands on and do this for us. <br/>
+You can view the Neutralino Desktop app docs at https://neutralinojs.github.io/docs/#/gettingstarted/firstapp .
 
 - Skill Level: Intermediary
 - Task Type: Code, Testing, Documentation
@@ -62,12 +62,12 @@ Neutralinojs library can used in SPA (Single Page Application) development. Star
 
 Neutralinojs is currently working on Linux and Windows. We are planning to implement Neutralinojs server for MacOS as well. A detailed research needs to be done answering the questions as per below,
 
-- Is there native socket library in MaOCS?
+- Is there native socket library in MacOS?
 - Is there open source http server library for MacOS?
 - Suggested ways to start MacOS implementation?
-- Can we resuse Linux and Windows source components
+- Can we resuse Linux and Windows source components.
 
-
+<br/>
 - Skill Level: Advanced
 - Task Type: Documentation, Research
 - Tags: Designing, HTML, Javascript, CSS, Angularjs
@@ -112,4 +112,49 @@ NeutralinoJs has the capability to run on dockerised environment, yet there is n
 - Skill Level: Advanced
 - Task Type: Research, Code, Testing, Enhancement
 - Tags: Designing, Optimizing
+
+## GCI-14: Fix a NeutralinoJs Project Issue on Github
+A number of issues are open in our Github repositories, that indicate something to either improve or fix. You can do that for us. Choose any of our repostories, if you see an issue that you can fix, feel free to fix it. Your contribution will be counted in.
+<br/> You can view our Github repositories at: https://github.com/neutralinojs
+
+- Skill Level: Variable 
+- Task Type: Documentation, Coding, Testing, Patches, Bug Reporting, Bug Fixing
+- Tags: Markdown, HTML, CSS, Javascript, C++, NodeJs, Webpack, Operating Systems
+
+## GCI-15: Write a new Feature for NeutalinoJs app
+
+The NeutralinoJs project is fairly new, the API is small and features are just the mandatory ones. If you have thrive to write code, you can write up a new feature. It can be based on something you would like to add, an improvement to the previous feature. It can be based on something you would like to add, an improvement on an available feature. You can talk to a contributor for more ideas, or anything else regarding this. 
+
+- Skill Level: Advanced
+- Task Type: Coding, Documentation
+- Tags: Markdown, C++, Networking, HTML, CSS, Javascript, NodeJs, Webpack.
+
+
+## GCI-16: Add a Contributors list
+
+There are around 4-5 contributors per repository, we want to build a single list to list the contributors in just a single page. You can get all the information from this link, the names must be arranged alphabetically or in order of their contributions. Each name should link to the person’s Github Profile.   
+This is a simple task meant for someone who is just getting started with Github and Open Source projects and softwares at common.
+The NeutralinoJs project is currently hosted at Github (https://github.com/neutralinojs)
+
+- Skill Level: Beginner
+- Task Type: Documentation
+- Tags: Markdown, Git Tools, Github
+
+## GCI-17: Help Building up the Community
+We believe the heart of the project is its community and the contributors, It is the contributors that keeps up the project going up, if not them it may die soon. NeutralinoJs community is short of community members and we tend to build it up for better, someone willing to volunteer can join in. It does not provide you with exclusive knowledge, but it can serve around as a knowledge bridge, a follow up to the project, how we work and what we work on. 
+This is an exclusive task, meant for whoever is interested in the project but want to know the project better before actually joining in for contributions, 
+We also require you to finish at least a single Beginner level task for this to be counted up.
+
+- Skill Level: Beginner
+- Task Type: Volunteering, Documentation, Testing
+- Tags: Markdown
+
+## GCI-18: Publish a Blog about NeutralinoJs on Medium
+
+If you are more interested in writing about the project, this task can be something that may grab your interest. You can write about Neutralino (on Medium). The topic can be anything to everything that involves NeutralinoJs. It can be about What Neutralino is? its pros and cons, where it can be used, etc. this is your particulat choice. <br/>
+Just make sure that the article is unbiased, don't over hype or under hype the project. 
+
+- Skill Level: Beginner
+- Task Type: Technical Writing
+- Tags: Writing, Composition, Code
 
