@@ -58,5 +58,18 @@ Neutralinojs library can used in SPA (Single Page Application) development. Star
 - Task Type: Testing, Code, Documentation, User Interface
 - Tags: Designing, HTML, Javascript, CSS, Angularjs
 
+## GCI-08: Neutralinojs MacOs Implementation - Research
+
+Neutralinojs is currently working on Linux and Windows. We are planning to implement Neutralinojs server for MacOS as well. A detailed research needs to be done answering the questions as per below,
+
+- Is there native socket library in MaOCS?
+- Is there open source http server library for MacOS?
+- Suggested ways to start MacOS implementation?
+- Can we resuse Linux and Windows source components
+
+- Skill Level: Advanced
+- Task Type: Testing, Code, Documentation, User Interface
+- Tags: Designing, HTML, Javascript, CSS, Angularjs
+
 
 
