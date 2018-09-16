@@ -67,6 +67,7 @@ Neutralinojs is currently working on Linux and Windows. We are planning to imple
 - Suggested ways to start MacOS implementation?
 - Can we resuse Linux and Windows source components
 
+
 - Skill Level: Advanced
 - Task Type: Testing, Code, Documentation, User Interface
 - Tags: Designing, HTML, Javascript, CSS, Angularjs
