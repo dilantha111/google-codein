@@ -134,11 +134,11 @@ The NeutralinoJs project is fairly new, the API is small and features are just t
 
 There are around 4-5 contributors per repository, we want to build a single list to list the contributors in just a single page. You can get all the information from this link, the names must be arranged alphabetically or in order of their contributions. Each name should link to the person’s Github Profile.   
 This is a simple task meant for someone who is just getting started with Github and Open Source projects and softwares at common.
-The NeutralinoJs project is currently hosted at Github (https://github.com/neutralinojs)
+The NeutralinoJs project is currently hosted at Github (https://github.com/neutralinojs). We recommened you to automated the process. When there is new contributor he/she will be added to the page automatically.
 
-- Skill Level: Beginner
-- Task Type: Documentation
-- Tags: Markdown, Git Tools, Github
+- Skill Level: Beginner/Intermediate
+- Task Type: Documentation, Code
+- Tags: Markdown, Git Tools, Github API
 
 ## GCI-17: Help Building up the Community
 We believe the heart of the project is its community and the contributors, It is the contributors that keeps up the project going up, if not them it may die soon. NeutralinoJs community is short of community members and we tend to build it up for better, someone willing to volunteer can join in. It does not provide you with exclusive knowledge, but it can serve around as a knowledge bridge, a follow up to the project, how we work and what we work on. 
