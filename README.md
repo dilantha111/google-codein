@@ -28,7 +28,7 @@ Neutralinojs is successfully tested on Windows 10 and Windows Server 2016. It ne
 ## GCI-04: Write NeutralinoJs Cloud App Documentation
 
 NeutralinoJs apps are capable of running on Desktop or in the cloud, while a sample for creating a desktop based Neutralino app is already available. A sample to create cloud based Neutralino apps is required to be published, you can get your hands on and do this for us. <br/>
-You can view the Neutralino Desktop app docs at https://neutralinojs.github.io/docs/#/gettingstarted/firstapp .
+You can view the Neutralino Desktop app docs at https://neutralino.js.org/docs/#/gettingstarted/firstapp .
 
 - Skill Level: Intermediary
 - Task Type: Code, Testing, Documentation
@@ -160,7 +160,7 @@ Just make sure that the article is unbiased, don't over hype or under hype the p
 
 ## GCI-19: Improving documentation for Neutralino.API
 
-Documentation for Neutralino API functions can be found at https://neutralinojs.github.io/docs. This sections needs improvements. Your task is to fix incomplete sections and add extra sample codes. Outputs and Inputs of each core function can be determined by inspecting the source code. Also Postman tool can be used.
+Documentation for Neutralino API functions can be found at https://neutralino.js.org/docs. This sections needs improvements. Your task is to fix incomplete sections and add extra sample codes. Outputs and Inputs of each core function can be determined by inspecting the source code. Also Postman tool can be used.
 
 - Skill Level: Beginner
 - Task Type: Documentation, Testing 
