@@ -198,3 +198,9 @@ Implementing storage.deleteData(string key,function success(content),function er
 - Skill Level: Intermediary
 - Task Type: Code, Documentation 
 - Tags: Research, Implementation, Writing, Code Inspecting
+
+## GCI-24: Checking the compaitablity with Visual C++ 
+Currently Neutralino is tested on MinGW. It is expected to test with Visual C++. And adding the documentation for necessary steps to set up with Visual C++.
+- Skill Level: Intermediary
+- Task Type: Documentation 
+- Tags: Research, Writing, Code Inspecting
