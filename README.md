@@ -192,3 +192,9 @@ Research on how to extend Neutralino to support C++ native codes. Findings can b
 - Skill Level: Intermediary
 - Task Type: Research, Code, Documentation 
 - Tags: Research, Implementation, Writing, Code Inspecting 
+
+## GCI-23: Implement storage.deleteData(string key,function success(content),function error())
+Implementing storage.deleteData(string key,function success(content),function error()) function for the storage module. It is better to use good styling techniques (but not heavy). README file is required.
+- Skill Level: Intermediary
+- Task Type: Code, Documentation 
+- Tags: Research, Implementation, Writing, Code Inspecting
