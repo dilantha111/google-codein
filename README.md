@@ -160,7 +160,7 @@ Just make sure that the article is unbiased, don't over hype or under hype the p
 
 ## GCI-19: Improving documentation for Neutralino.API
 
-Documentation for Neutralino API functions can be found at https://neutralinojs.github.io/docs/#/api. This sections needs improvements. Your task is to fix incomplete sections and add extra sample codes. Outputs and Inputs of each core function can be determined by inspecting the source code. Also Postman tool can be used.
+Documentation for Neutralino API functions can be found at https://neutralinojs.github.io/docs. This sections needs improvements. Your task is to fix incomplete sections and add extra sample codes. Outputs and Inputs of each core function can be determined by inspecting the source code. Also Postman tool can be used.
 
 - Skill Level: Beginner
 - Task Type: Documentation, Testing 
