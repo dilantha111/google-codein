@@ -186,3 +186,9 @@ Neutralinojs offers an os module for system functions related to operating syste
 - Task Type: Testing, Code, Documentation 
 - Tags: Implementation, Writing, Code Inspecting 
 
+## GCI-22: Resarch on Extending Neutralino with native C++ functions
+Research on how to extend Neutralino to support C++ native codes. Findings can be doumented. And if possible first steps could be implemented but not required. 
+
+- Skill Level: Intermediary
+- Task Type: Research, Code, Documentation 
+- Tags: Research, Implementation, Writing, Code Inspecting 
