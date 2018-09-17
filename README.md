@@ -205,8 +205,8 @@ Currently Neutralino is tested on MinGW. It is expected to test with Visual C++.
 - Task Type: Documentation 
 - Tags: Research, Writing, Code Inspecting
 
-## GCI-25: Implementing Path module
-Adding path module for Neutralino. Reference : https://nodejs.org/api/path.html. Implementing at least two methods and documentation is expected. 
+## GCI-25: Implementing os.getCPUUsage(function success(data), function error) in Computer module
+ Implementing os.getCPUUsage(function success(data), function error) mehtod for computer module. It is better to use good styling techniques (but not heavy). README file is required.
 - Skill Level: Intermediary
 - Task Type: Code, Documentation 
-- Tags: Research, Implementation, Writing, Code Inspecting
+- Tags: Implementation, Writing, Code Inspecting
