@@ -177,3 +177,12 @@ Implement api to monitor power state changes on the computer module. At least th
 - Task Type: Documentation, Testing, Research, Code, Implementation 
 - Tags: Implementation, Writing, Code Inspecting 
 
+## GCI-21: Develop a sample app using os module 
+
+Neutralinojs offers an os module for system functions related to operating system of the current user. A sample Neutralino app needs to be developed to demostrate the use of simple os commands. It is better to use good styling techniques (but not heavy). README file is required about demo app.
+
+
+- Skill Level: Beginner
+- Task Type: Testing, Code, Documentation 
+- Tags: Implementation, Writing, Code Inspecting 
+
