@@ -166,3 +166,17 @@ Documentation for Neutralino API functions can be found at https://neutralino.js
 - Task Type: Documentation, Testing 
 - Tags: Testing, Writing, Code Inspecting 
 
+## GCI-20: Implement computer power monitoring API 
+
+Implement api to monitor power state changes on the computer module. At least the follwing states should be able to monitor.<br>
+<b>suspend</b> - Emitted when the system is suspending.<br/>
+<b>resume</b> - Emitted when system is resuming.<br/>
+<b>on-ac</b> - Emitted when the system changes to AC power.<br/>
+<b>on-battery</b> - Emitted when system changes to battery power.<br/>
+<b>shutdown</b> - Emitted when the system is about to reboot or shut down<br/>
+
+
+- Skill Level: Advanced
+- Task Type: Documentation, Testing, Research, Code, Implementation 
+- Tags: Implementation, Writing, Code Inspecting 
+
