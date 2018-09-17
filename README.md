@@ -169,11 +169,11 @@ Documentation for Neutralino API functions can be found at https://neutralino.js
 ## GCI-20: Implement computer power monitoring API 
 
 Implement api to monitor power state changes on the computer module. At least the follwing states should be able to monitor.
-- suspend - Emitted when the system is suspending.
-- resume - Emitted when system is resuming.
-- on-ac - Emitted when the system changes to AC power.
-- on-battery - Emitted when system changes to battery power.
-- shutdown - Emitted when the system is about to reboot or shut down
+suspend - Emitted when the system is suspending.
+resume - Emitted when system is resuming.
+on-ac - Emitted when the system changes to AC power.
+on-battery - Emitted when system changes to battery power.
+shutdown - Emitted when the system is about to reboot or shut down
 
 
 - Skill Level: Advanced
